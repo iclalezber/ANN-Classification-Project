@@ -37,5 +37,5 @@ ArtiFinalProject.ipynb
 
 3. Run the cells in Jupyter or Google Colab
 
-📜 License
+## 📜 License
 This project is licensed under the MIT License.   
